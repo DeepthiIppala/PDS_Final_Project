@@ -25,4 +25,6 @@ Code folder : Contains the just code for this project.
 
 Code folder with .ipynb : Contains the code with my outputs in jupyter notebook
 
+Final presentation - This is the final presentation for this project. It includes a summary of the problem statement, dataset insights, data cleaning process, exploratory data analysis (EDA), feature engineering, modeling techniques, evaluation metrics, and final conclusions. Use this presentation as a visual walkthrough of the project's workflow, findings, and key takeaways.
+
 
