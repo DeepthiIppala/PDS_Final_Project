@@ -18,6 +18,7 @@ Solution:
 
 
 Navigating this repo:
-code folder : Contains the code for this project.
+Code folder : Contains the just code for this project.
+Code folder with .ipynb : Contains the code with my outputs in jupyter notebook
 
 
